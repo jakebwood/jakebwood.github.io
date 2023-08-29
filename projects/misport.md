@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/free-portfolio-template.jpeg
 title: "Misport"
 date: 2023 - 08 - 28
 labels:
