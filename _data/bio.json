@@ -7,7 +7,7 @@
     "phone": "808-561-6227",
     "website": "https://jakebwood.github.io",
     "summary": "I am an undergraduate student at UH Manoa pursuing a B.B.A. in both Accounting and Management Information Systems. I expect to graduate in Spring 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jakebwood", "url": "http://github.com/jakebwood" }
     ]
@@ -21,20 +21,20 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "English (Native)", "Japanese (Working Proficiency)" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Powerpoint/Excel" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Accounting & Management Information Systems (expected Spring, 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2019",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,74 +42,35 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Warrior Recreation Center",
+      "position": "Front Desk Office Manager",
+      "website": "https://manoa.hawaii.edu/studentlife/recreation/recreation-center/",
+      "startDate": "2022",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Manages and oversees the front desk at the Warrior Recreation Center",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Oversee front desk office assistants in membership sales, customer service, and general questions regarding services.",
+        "Complete returns and certain fiscal receipts to be approved."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Warrior Recreation Center",
+      "position": "Front Desk Office Assistant",
+      "website": "https://manoa.hawaii.edu/studentlife/recreation/recreation-center/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Assisted patrons at the Warrior Recreation Center",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Sold memberships, answered questions, and took phone calls and emails."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "title": "Dean's List",
+      "date": "Fall 2021",
+      "awarder": "UH Manoa",
+      "summary": "Awarded to students enrolled in 12 credits or more while maintaining a grade point average of 3.5 or higher."
     }
   ]
 }
