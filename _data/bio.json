@@ -6,7 +6,7 @@
     "email": "jwood3@hawaii.edu",
     "phone": "808-561-6227",
     "website": "https://jakebwood.github.io",
-    "summary": "I am a senior at UH Manoa majoring in Accounting and Management Information Systems. I expect to graduate in Spring 2024.",
+    "summary": "I am an undergraduate student at UH Manoa pursuing a B.B.A. in both Accounting and Management Information Systems. I expect to graduate in Spring 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jakebwood", "url": "http://github.com/jakebwood" }
@@ -14,8 +14,10 @@
   },
   "interests": [
     { "name": "IT Audit" },
-    { "name": "Accounting Information Systems" },
-    { "name": "Programming" }
+    { "name": "Baking" },
+    { "name": "Basketball" }
+    { "name": "Golf" }
+    { "name": "Lifting" }
   ],
   "skills": [
     {
