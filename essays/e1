@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E1: UI Basics Technical Essay"
+title: "Why MIS?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-07
 published: true
@@ -9,6 +9,7 @@ labels:
   - MIS
   - UHM
 ---
+
 BrowserHistory1
 
 The first WOD, browser history 1, took me three times to complete in an Rx time of 14:15. As this was the first section of the WOD, we were tasked mainly with creating a new webpage, adding some links to external sites, formatting some paragraphs and headers, and inserting images. On my first attempt I did not finish, as I took over 25 minutes trying to figure out how to link my table of contents to their respective sections within the browser. After doing some reading, I learned about labeling a section of code with a specific ID, in order to reference it when specifying the href path, using the # symbol. It took me another try to get used to this format, but I was finally able to complete this WOD with an Rx time on my third attempt. 
