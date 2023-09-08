@@ -1,0 +1,22 @@
+---
+layout: essay
+type: essay
+title: "E1: UI Basics Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-07
+published: true
+labels:
+  - MIS
+  - UHM
+---
+BrowserHistory1
+
+The first WOD, browser history 1, took me three times to complete in an Rx time of 14:15. As this was the first section of the WOD, we were tasked mainly with creating a new webpage, adding some links to external sites, formatting some paragraphs and headers, and inserting images. On my first attempt I did not finish, as I took over 25 minutes trying to figure out how to link my table of contents to their respective sections within the browser. After doing some reading, I learned about labeling a section of code with a specific ID, in order to reference it when specifying the href path, using the # symbol. It took me another try to get used to this format, but I was finally able to complete this WOD with an Rx time on my third attempt. 
+
+BrowserHistory2
+
+The second part of the WOD, browser history 2, expanded upon the web page that we created in browser history 1 by using CSS and google font styles in order to make our page more aesthetically pleasing. The main problem that I ran into in this WOD was the syntax regarding the referencing for google font styles. I had to do some research regarding how to add certain fonts, and using a plus sign for spaces, and a pipe symbol to add more than one font family. Although I finished on my first attempt in about 12 minutes, I decided to try one more time. On my second attempt, I completed browser history 2 in just under 6 minutes, as I no longer required more information about google font syntax. 
+
+BrowserHistory3
+
+Browser History 3 was the final part of this WOD, and required us to focus and alter the overall layout of the page and its contents. In my opinion, this was actually the hardest section of the WOD, as I had to think about my approach to this section unlike the other two where I just jumped right in; however, I ran into lots of problems when dealing with the table of contents, and adjusting each entry in the list to be displayed in a horizontal line. The previous section regarding columns did not trouble me too much, as we used the float command in browser history 2 to adjust the image locations, and the same logic was applied with the headings and paragraphs in browser history 3. After reading about the inline command and gaining a better understanding regarding margins, I was able to complete this WOD in 13:37 on my first attempt. Once again, I decided to attempt this until I completed it with an Rx time, and finished on my second attempt with a time just under 6 minutes, similar to browser history 2. 
