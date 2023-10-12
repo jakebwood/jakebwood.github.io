@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "XC: Using screencast lectures"
+title: "XC: Using Screencast Lectures"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-11
 published: true
