@@ -11,7 +11,7 @@ labels:
 ---
 
 <h2>Provide a brief introduction to the assignment along with a link to this page for further details</h2>
-Assignment 2 was a continuation of our Assignment 1 store that mostly focused on keeping track of users and ensuring that their information could be properly stored and accessed. This was done with the creation of new user registration, as well as allowing users to login using their newly created account. Of course, we had to make sure that valid information was being used to register/login, which made this assignment even more challenging. Refer to the assignment 2 <a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html">here.</a>
+Assignment 2 was a continuation of our Assignment 1 store that mostly focused on keeping track of users and ensuring that their information could be properly stored and accessed. This was done with the creation of new user registration, as well as allowing users to login using their newly created account. Of course, we had to make sure that valid information was being used to register/login, which made this assignment even more challenging. Refer to the assignment 2 overview <a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html">here.</a>
 
 <h2>What did you learn from this assignment?</h2>
 I learned lots about input validations and especially more regarding manipulation of the query string. This assignment truly prepared me for assignment 3 in order to appreciate the use of sessions and cookies to make the management of the query string much easier.
