@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Jakeb Wood",
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/jakebwood.png",
+    "email": "jwood3@hawaii.edu",
+    "phone": "808-561-6227",
+    "website": "https://jakebwood.github.io",
+    "summary": "I am an undergraduate student at UH Manoa pursuing a B.B.A. in both Accounting and Management Information Systems. I expect to graduate in Spring 2024.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jakebwood", "url": "http://github.com/jakebwood" }
+    ]
+  },
+  "interests": [
+    { "name": "IT Audit" },
+    { "name": "Baking" },
+    { "name": "Basketball" },
+    { "name": "Golf" },
+    { "name": "Lifting" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "English (Native)", "Japanese (Working Proficiency)" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Powerpoint/Excel" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Accounting & Management Information Systems (expected Spring, 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2019",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Warrior Recreation Center",
+      "position": "Front Desk Office Manager",
+      "website": "https://manoa.hawaii.edu/studentlife/recreation/recreation-center/",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Manages and oversees the front desk at the Warrior Recreation Center",
+      "highlights": [
+        "Oversee front desk office assistants in membership sales, customer service, and general questions regarding services.",
+        "Complete returns and certain fiscal receipts to be approved."
+      ]
+    },
+    {
+      "company": "Warrior Recreation Center",
+      "position": "Front Desk Office Assistant",
+      "website": "https://manoa.hawaii.edu/studentlife/recreation/recreation-center/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Assisted patrons at the Warrior Recreation Center",
+      "highlights": [
+        "Sold memberships, answered questions, and took phone calls and emails."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2021",
+      "awarder": "UH Manoa",
+      "summary": "Awarded to students enrolled in 12 credits or more while maintaining a grade point average of 3.5 or higher."
+    }
+  ]
+}
